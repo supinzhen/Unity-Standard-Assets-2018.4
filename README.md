@@ -1,6 +1,6 @@
 # Unity-Standard-Assets-2018.4
 
-Standard Assets 2018.4 has been deprecated from the Asset Store. Hosting them here for now, for anyone who wants them.
+[Standard Assets 2018.4 has been deprecated from the Asset Store.](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-2018-4-check-out-starter-assets-first-person-thi-32351) Hosting them here for now, for anyone who wants them.
 
 # How To Use
 
